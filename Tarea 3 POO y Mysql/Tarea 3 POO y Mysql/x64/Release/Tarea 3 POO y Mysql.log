@@ -1,0 +1,3 @@
+﻿  Tarea 3 POO y Mysql.cpp
+C:\Users\Beba\Desktop\archivos\U\Tercer Semestre\Progra\Tarea 3  POO y Mysql\Tarea 3 POO y Mysql\Tarea 3 POO y Mysql\Tarea 3 POO y Mysql.cpp(20,61): error C2440: '<function-style-cast>': no se puede realizar la conversión de 'initializer list' a 'Proveedores'
+C:\Users\Beba\Desktop\archivos\U\Tercer Semestre\Progra\Tarea 3  POO y Mysql\Tarea 3 POO y Mysql\Tarea 3 POO y Mysql\Tarea 3 POO y Mysql.cpp(20,61): message : Ningún constructor ha podido aceptar el tipo de origen o bien la resolución de sobrecarga del constructor era ambigua
